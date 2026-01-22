@@ -2,31 +2,11 @@
 <h3 align="center">SDE Aspirant • Full Stack Dev (Hands-on) • Building cool stuff with Python</h3>
 
 <p align="center">
-  <a href="https://github.com/nocapgaurav">
-    <img src="https://img.shields.io/badge/GitHub-nocapgaurav-black?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://in.linkedin.com/in/gaurav-pandit01" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Pandit-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:gauravvpandita@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gauravvpandita@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://github.com/nocapgaurav"><img src="https://img.shields.io/badge/GitHub-nocapgaurav-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://www.linkedin.com/in/<your-linkedin>/"><img src="https://img.shields.io/badge/LinkedIn-Gaurav%20Pandit-0A66C2?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:gauravvpandita@gmail.com"><img src="https://img.shields.io/badge/Email-gauravvpandita@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
-## 🚀 Featured Projects
-...projects here...
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nocapgaurav&show_icons=true&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocapgaurav&layout=compact&hide_border=true" height="165"/>
-</p>
-
-## 🤝 Connect With Me
-...links here...
 ---
 
 ## ⚡ About Me
